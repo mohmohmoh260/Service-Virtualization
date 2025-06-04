@@ -2513,8 +2513,8 @@
       "uuid": "e0e4882b-f2e2-478b-926d-484172c9be7c"
     }
   ],
-  "proxyMode": false,
-  "proxyHost": "",
+  "proxyMode": true,
+  "proxyHost": "http://10.246.114.123",
   "proxyRemovePrefix": false,
   "tlsOptions": {
     "enabled": false,
